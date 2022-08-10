@@ -1,4 +1,4 @@
-# Tic Tac Tow with ""AI"" written in C
+# Tic Tac Toe game with ""AI"" written in C
 
 A tic tac toe game made from a Tetris Attack code that was made from a Pac Man code with """" AI """" (of course it's just a  bunch of if-else)
 
