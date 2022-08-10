@@ -1,0 +1,375 @@
+# depslib dependency file v1.0
+1548079874 source:d:\pacman\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1215465208 d:\pacman\soil.h
+
+1547222593 source:d:\andre\pacman\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	"mapa.txt"
+
+1215465208 d:\andre\pacman\soil.h
+
+1547219672 d:\andre\pacman\mapa.txt
+
+1547637083 d:\pacman\mapa.txt
+
+1547550409 d:\pacman\utils.h
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+
+1547550687 source:d:\pacman\utils.c
+	"utils.h"
+
+1548079156 source:d:\pacman\pacman.c
+	"pacman.h"
+
+1548079162 d:\pacman\pacman.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+
+1548088687 source:d:\andre\levar ufu\pacman\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1215465208 d:\andre\levar ufu\pacman\soil.h
+
+1547546809 d:\andre\levar ufu\pacman\utils.h
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+
+1547547087 source:d:\andre\levar ufu\pacman\utils.c
+	"utils.h"
+
+1547633483 d:\andre\levar ufu\pacman\mapa.txt
+
+1548171863 source:d:\andre\levar ufu\pacman\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1548170362 d:\andre\levar ufu\pacman\pacman.h
+
+1548334521 source:d:\facomufu\video aulas\video aula pacman\pacman\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1215465208 d:\facomufu\video aulas\video aula pacman\pacman\soil.h
+
+1548173962 d:\facomufu\video aulas\video aula pacman\pacman\pacman.h
+
+1548334616 source:d:\facomufu\video aulas\video aula pacman\pacman\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1548327416 source:d:\andre\facom ufu\exemplos\pacman\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1215461608 d:\andre\facom ufu\exemplos\pacman\soil.h
+
+1548166762 d:\andre\facom ufu\exemplos\pacman\pacman.h
+
+1574164896 source:c:\users\ingressante\documents\pacman\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1574164896 c:\users\ingressante\documents\pacman\soil.h
+
+1574164896 c:\users\ingressante\documents\pacman\pacman.h
+
+1574164896 source:c:\users\ingressante\documents\pacman\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1574804540 source:c:\users\amauri pietropaolo\desktop\dametucosicha\trabalhogbc014\tetris xd\tetris-ataca\trab mesmo\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1574453276 c:\users\amauri pietropaolo\desktop\dametucosicha\trabalhogbc014\tetris xd\tetris-ataca\trab mesmo\soil.h
+
+1574717781 c:\users\amauri pietropaolo\desktop\dametucosicha\trabalhogbc014\tetris xd\tetris-ataca\trab mesmo\pacman.h
+
+1574804476 source:c:\users\amauri pietropaolo\desktop\dametucosicha\trabalhogbc014\tetris xd\tetris-ataca\trab mesmo\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1574774106 source:c:\users\ingressante\desktop\bakes\tetris-ataca\trab mesmo\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1574164896 c:\users\ingressante\desktop\bakes\tetris-ataca\trab mesmo\soil.h
+
+1574769667 c:\users\ingressante\desktop\bakes\tetris-ataca\trab mesmo\pacman.h
+
+1574775436 source:c:\users\ingressante\desktop\bakes\tetris-ataca\trab mesmo\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1575166048 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\tetris-ataca\trab mesmo\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1575064675 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\tetris-ataca\trab mesmo\soil.h
+
+1575064675 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\tetris-ataca\trab mesmo\pacman.h
+
+1575166339 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\tetris-ataca\trab mesmo\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1575335687 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\tetris-ataca\trab mesmo\trab mesmo\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1575243627 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\tetris-ataca\trab mesmo\trab mesmo\soil.h
+
+1575335373 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\tetris-ataca\trab mesmo\trab mesmo\pacman.h
+
+1575335373 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\tetris-ataca\trab mesmo\trab mesmo\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1575418575 source:c:\users\amauri pietropaolo\downloads\trabson atualizads\trab mesmo\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1575243627 c:\users\amauri pietropaolo\downloads\trabson atualizads\trab mesmo\soil.h
+
+1575418849 c:\users\amauri pietropaolo\downloads\trabson atualizads\trab mesmo\pacman.h
+
+1575418481 source:c:\users\amauri pietropaolo\downloads\trabson atualizads\trab mesmo\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1575414881 source:c:\users\gabriel velasco\desktop\grupogas\grupogas\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1575240027 c:\users\gabriel velasco\desktop\grupogas\grupogas\soil.h
+
+1575415249 c:\users\gabriel velasco\desktop\grupogas\grupogas\pacman.h
+
+1575414975 source:c:\users\gabriel velasco\desktop\grupogas\grupogas\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1580699747 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\grupogas\grupogas\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1575416064 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\grupogas\grupogas\soil.h
+
+1580699420 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\grupogas\grupogas\pacman.h
+
+1580953763 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\trabalho\grupogas\grupogas\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1581980187 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\lista-c-pp\trabalho\tetris, jogo da velha, pacman\grupogas\grupogas\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1575412464 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\lista-c-pp\trabalho\tetris, jogo da velha, pacman\grupogas\grupogas\soil.h
+
+1580695820 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\pp\lista-c-pp\trabalho\tetris, jogo da velha, pacman\grupogas\grupogas\pacman.h
+
+1581980939 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\prog\c\listas, trabalhos\trabalho\tetris, jogo da velha, pacman\grupogas\grupogas\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1575412464 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\prog\c\listas, trabalhos\trabalho\tetris, jogo da velha, pacman\grupogas\grupogas\soil.h
+
+1580695820 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\prog\c\listas, trabalhos\trabalho\tetris, jogo da velha, pacman\grupogas\grupogas\pacman.h
+
+1581980187 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\prog\c\listas, trabalhos\trabalho\tetris, jogo da velha, pacman\grupogas\grupogas\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1582501198 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\prog\c\c-exercises-lists-projects\trabalho\tetris, jogo da velha, pacman\tetris to jogo da velha\grupogas\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1581983741 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\prog\c\c-exercises-lists-projects\trabalho\tetris, jogo da velha, pacman\tetris to jogo da velha\grupogas\soil.h
+
+1582500451 c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\prog\c\c-exercises-lists-projects\trabalho\tetris, jogo da velha, pacman\tetris to jogo da velha\grupogas\pacman.h
+
+1582500451 source:c:\users\gabriel velasco\iclouddrive\documentos\ufu bcc\prog\c\c-exercises-lists-projects\trabalho\tetris, jogo da velha, pacman\tetris to jogo da velha\grupogas\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1583720498 source:c:\users\gabriel velasco\desktop\grupogas b\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1581983741 c:\users\gabriel velasco\desktop\grupogas b\soil.h
+
+1583720498 c:\users\gabriel velasco\desktop\grupogas b\pacman.h
+
+1583720611 source:c:\users\gabriel velasco\desktop\grupogas b\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
+1583720498 source:c:\users\gabriel velasco\desktop\jogo da velha ia\grupogas b\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<time.h>
+	"pacman.h"
+
+1581983741 c:\users\gabriel velasco\desktop\jogo da velha ia\grupogas b\soil.h
+
+1583720498 c:\users\gabriel velasco\desktop\jogo da velha ia\grupogas b\pacman.h
+
+1583720611 source:c:\users\gabriel velasco\desktop\jogo da velha ia\grupogas b\pacman.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	"SOIL.h"
+	"pacman.h"
+
